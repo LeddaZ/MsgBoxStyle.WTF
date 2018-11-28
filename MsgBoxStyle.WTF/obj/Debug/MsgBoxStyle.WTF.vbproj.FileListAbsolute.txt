@@ -1,0 +1,10 @@
+C:\Users\leona\OneDrive\Visual Studio\MsgBoxStyle.WTF\MsgBoxStyle.WTF\bin\Debug\MsgBoxStyle.WTF.exe.config
+C:\Users\leona\OneDrive\Visual Studio\MsgBoxStyle.WTF\MsgBoxStyle.WTF\bin\Debug\MsgBoxStyle.WTF.exe
+C:\Users\leona\OneDrive\Visual Studio\MsgBoxStyle.WTF\MsgBoxStyle.WTF\bin\Debug\MsgBoxStyle.WTF.pdb
+C:\Users\leona\OneDrive\Visual Studio\MsgBoxStyle.WTF\MsgBoxStyle.WTF\bin\Debug\MsgBoxStyle.WTF.xml
+C:\Users\leona\OneDrive\Visual Studio\MsgBoxStyle.WTF\MsgBoxStyle.WTF\obj\Debug\MsgBoxStyle.WTF.Resources.resources
+C:\Users\leona\OneDrive\Visual Studio\MsgBoxStyle.WTF\MsgBoxStyle.WTF\obj\Debug\MsgBoxStyle.WTF.vbproj.GenerateResource.cache
+C:\Users\leona\OneDrive\Visual Studio\MsgBoxStyle.WTF\MsgBoxStyle.WTF\obj\Debug\MsgBoxStyle.WTF.vbproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Visual Studio\MsgBoxStyle.WTF\MsgBoxStyle.WTF\obj\Debug\MsgBoxStyle.WTF.exe
+C:\Users\leona\OneDrive\Visual Studio\MsgBoxStyle.WTF\MsgBoxStyle.WTF\obj\Debug\MsgBoxStyle.WTF.xml
+C:\Users\leona\OneDrive\Visual Studio\MsgBoxStyle.WTF\MsgBoxStyle.WTF\obj\Debug\MsgBoxStyle.WTF.pdb
